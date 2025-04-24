@@ -199,7 +199,7 @@
     <div class="highlight">
       <h2>Visi & Strategi</h2>
       <p>Rasa autentik, tempat nyaman, ekspansi cabang, dan promosi digital untuk menjangkau lebih banyak pelanggan.</p>
-      <a href="https://wa.me/6281234567890" target="_blank" class="cta">Coba Sekarang!</a>
+      <a href="https://wa.me/6285854438411" target="_blank" class="cta">Coba Sekarang!</a>
     </div>
   </section>
 
