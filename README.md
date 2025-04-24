@@ -168,7 +168,7 @@
 </head>
 <body>
   <header>
-    <h1>Mie Bakar Blitar</h1>
+    <h1>ngemie bakaar cilincing</h1>
     <p>Kuliner Kekinian, Rasa Menggoda</p>
   </header>
   <section>
@@ -176,15 +176,15 @@
       <h2>Konsep & Produk</h2>
       <p>Kedai mie bakar dalam kontainer modern dengan berbagai varian rasa dan level pedas, ditemani menu pelengkap dan minuman segar.</p>
     </div>
-    <img src="file-XtEU5cxBTmAm4C91gh9evX" alt="file-XtEU5cxBTmAm4C91gh9evX" loading="lazy">
-    <img src="file-QxyWtoXBmGM2JE3QSiBVQE" alt="file-QxyWtoXBmGM2JE3QSiBVQE" loading="lazy">
-    <img src="file-3iJc1otfPgDktbVPLbb5ZS" alt="file-3iJc1otfPgDktbVPLbb5ZS" loading="lazy">
-    <img src="file-Me1VtsgjkRoD5SyiQ6iaP2" alt="file-Me1VtsgjkRoD5SyiQ6iaP2" loading="lazy">
-    <img src="file-8LX9ubBPCQ9ow637cG4pD3" alt="file-8LX9ubBPCQ9ow637cG4pD3" loading="lazy">
+    <img src="file-XtEU5cxBTmAm4C91gh9evX" alt="desain1.jpg" loading="lazy">
+    <img src="file-QxyWtoXBmGM2JE3QSiBVQE" alt="desain2.jpg" loading="lazy">
+    <img src="file-3iJc1otfPgDktbVPLbb5ZS" alt="desain3.jpg" loading="lazy">
+    <img src="file-Me1VtsgjkRoD5SyiQ6iaP2" alt="desain4.jpg" loading="lazy">
+    <img src="file-8LX9ubBPCQ9ow637cG4pD3" alt="desain5.jpg" loading="lazy">
 
     <div class="highlight">
       <h2>Target Pasar & Lokasi</h2>
-      <p>Anak muda, pelajar, pekerja, dan pecinta pedas di sekitar Blitar. Lokasi strategis dekat kampus atau pusat keramaian.</p>
+      <p>Anak muda, pelajar, pekerja, dan pecinta pedas di sekitar Blitar. Lokasi strategis dekat sekolah atau pusat keramaian.</p>
     </div>
 
     <div class="highlight">
@@ -198,7 +198,7 @@
 
     <div class="highlight">
       <h2>Visi & Strategi</h2>
-      <p>Rasa autentik, tempat nyaman, ekspansi cabang, dan promosi digital untuk menjangkau lebih banyak pelanggan.</p>
+      <p>Rasa autentik, tempat nyaman, tema tempat yang istragramable, dan promosi digital untuk menjangkau lebih banyak pelanggan.</p>
       <a href="https://wa.me/6285854438411" target="_blank" class="cta">Coba Sekarang!</a>
     </div>
   </section>
