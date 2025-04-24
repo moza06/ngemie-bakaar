@@ -176,11 +176,11 @@
       <h2>Konsep & Produk</h2>
       <p>Kedai mie bakar dalam kontainer modern dengan berbagai varian rasa dan level pedas, ditemani menu pelengkap dan minuman segar.</p>
     </div>
-    <img src="file-XtEU5cxBTmAm4C91gh9evX" alt="Desain Mie Bakar 1" loading="lazy">
-    <img src="file-QxyWtoXBmGM2JE3QSiBVQE" alt="Desain Mie Bakar 2" loading="lazy">
-    <img src="file-3iJc1otfPgDktbVPLbb5ZS" alt="Desain Mie Bakar 3" loading="lazy">
-    <img src="file-Me1VtsgjkRoD5SyiQ6iaP2" alt="Desain Mie Bakar 4" loading="lazy">
-    <img src="file-8LX9ubBPCQ9ow637cG4pD3" alt="Desain Mie Bakar 5" loading="lazy">
+    <img src="file-XtEU5cxBTmAm4C91gh9evX" alt="file-XtEU5cxBTmAm4C91gh9evX" loading="lazy">
+    <img src="file-QxyWtoXBmGM2JE3QSiBVQE" alt="file-QxyWtoXBmGM2JE3QSiBVQE" loading="lazy">
+    <img src="file-3iJc1otfPgDktbVPLbb5ZS" alt="file-3iJc1otfPgDktbVPLbb5ZS" loading="lazy">
+    <img src="file-Me1VtsgjkRoD5SyiQ6iaP2" alt="file-Me1VtsgjkRoD5SyiQ6iaP2" loading="lazy">
+    <img src="file-8LX9ubBPCQ9ow637cG4pD3" alt="file-8LX9ubBPCQ9ow637cG4pD3" loading="lazy">
 
     <div class="highlight">
       <h2>Target Pasar & Lokasi</h2>
